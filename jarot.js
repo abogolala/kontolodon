@@ -5771,8 +5771,8 @@ throw `Thanks to
 ┏═┅〔 *SUPPORT* 〕┅═
 ┃⫹⫺ 𝚇𝚎𝚘𝚗
 ┃⫹⫺ 𝙹𝚊𝚛𝚘𝚝 𝙾𝚏𝚏𝚌
-┃⫹⫺ 𝙾𝚜𝚌𝚊𝚛 𝚘𝚏𝚌
-┗═┅〔 *Made By Jarot* 〕┅═`
+┃⫹⫺ WhyuTzu
+┗═┅〔 *Made By WhyuTzu* 〕┅═`
 break
 case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let ownernya = ownernomer + '@s.whatsapp.net'
@@ -5782,7 +5782,7 @@ case 'alive': case 'panel': case 'list': case 'menu': case 'help': case '?': {
             let jarot = `┏─────────────────⬣
 ┆ 𝑯𝒂𝒊, ${ucapanWaktu} ${pushname}
 ┗┬──────────────┈ ⳹
-┏┤ 𝙸𝚗𝚏𝚘 𝙱𝚘𝚝 𝙾𝚜𝚌𝚊𝚛
+┏┤ 𝙸𝚗𝚏𝚘 𝙱𝚘𝚝 Hinakinu
 ┆┗──────────────┈ ⳹
 ┆♠︎ 𝗕𝗼𝘁 𝗡𝗮𝗺𝗲 : ${global.botname}
 ┆♠︎ 𝗢𝘄𝗻𝗲𝗿 𝗡𝗮𝗺𝗲 : ${global.ownername}
